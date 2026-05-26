@@ -1,0 +1,17 @@
+# Python缓存
+__pycache__/
+*.pyc
+
+# 模型权重文件
+*.pt
+*.pth
+
+# CatBoost 临时信息
+catboost_info/
+
+# csv原始数据（可选，如不想上传可取消注释）
+# csv/*.csv
+
+# 系统文件
+Thumbs.db
+.DS_Store
